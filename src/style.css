@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  border: 1px solid #e75551;
+  background-color: #ddd;
+  padding: 10px;
+}
+
+.redBorder {
+  border: 1px solid #e75551;
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.blueBorder {
+  background-color: #2d8fbe;
+  width: 350px;
+  border: 1px solid #e75551;
+  padding: 10px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+}
